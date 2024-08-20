@@ -1,0 +1,4 @@
+user_id,username,password,role
+1,admin,admin123,administrador
+2,mestre1,senha123,mestre
+3,jogador1,senha321,jogador
